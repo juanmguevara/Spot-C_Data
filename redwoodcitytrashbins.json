@@ -1,342 +1,590 @@
 [
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4796929,-122.216341"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4805095,-122.2174921"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4819555,-122.2213645"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4821915,-122.2219566"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4819196,-122.2220042"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4770862,-122.2235079"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4770123,-122.223414"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4768497,-122.2231706"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4769415,-122.2233081"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4776926,-122.2237805"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4815386,-122.2291013"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4823564,-122.2302557"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4842361,-122.2275688"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4840919,-122.2272868"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4841424,-122.2273773"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4842478,-122.22703"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4840145,-122.2270776"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4842334,-122.2263155"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866182,-122.2254642"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866361,-122.2249701"
-   },
-   {
-      "Trash Bin":"Jefferson Ave & Marshall St",
-      "Location":"https:\/\/www.google.com\/maps\/place\/Jefferson+Ave+%26+Marshall+St\/data=!4m2!3m1!1s0x808fa2531f2bebaf:0xa80f860704222f7f"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4877465,-122.2267839"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4875191,-122.2264895"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864544,-122.2262176"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4865887,-122.2260889"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4865823,-122.2266893"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866637,-122.2267772"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4865243,-122.227315"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4865368,-122.227484"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866302,-122.2275165"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866331,-122.2276016"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866648,-122.2281149"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866063,-122.228356"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866063,-122.2287067"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4856592,-122.229039"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.486,-122.2292224"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4861745,-122.2292317"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4862711,-122.2290614"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4861077,-122.229048"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864397,-122.2290386"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4863461,-122.2292522"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866385,-122.2291134"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866483,-122.2292354"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.486564,-122.2293196"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864424,-122.2295466"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864291,-122.2297166"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4862389,-122.2300123"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4863799,-122.2300639"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4865305,-122.2299828"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866002,-122.2300813"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864932,-122.2303442"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864807,-122.2305132"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4863754,-122.2306567"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4868244,-122.2309125"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4873544,-122.2310268"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4875624,-122.2313212"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.486826,-122.2323019"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4865797,-122.2321802"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4863711,-122.2321386"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864275,-122.2319703"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4863325,-122.2317805"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4854133,-122.2306661"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4854102,-122.2304629"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4853921,-122.2296431"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4851005,-122.2285699"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4850555,-122.2287771"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4850869,-122.2288247"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4835039,-122.231349"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4829742,-122.23515"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4824078,-122.2357794"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4820196,-122.2361062"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4864254,-122.2368898"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.486279,-122.2363959"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4862524,-122.2353187"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4866877,-122.2356915"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4871607,-122.2358142"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4875826,-122.235378"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4877971,-122.2353961"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4867606,-122.2337969"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.486431,-122.2332068"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.48637,-122.2332644"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4862226,-122.2339565"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.486336,-122.2340453"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4863118,-122.2347417"
-   },
-   {
-      "Trash Bin":"Yes",
-      "Location":"37.4861458,-122.2345754"
-   }
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4796929,
+            -122.216341
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4805095,
+            -122.2174921
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4819555,
+            -122.2213645
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4821915,
+            -122.2219566
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4819196,
+            -122.2220042
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4770862,
+            -122.2235079
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4770123,
+            -122.223414
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4768497,
+            -122.2231706
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4769415,
+            -122.2233081
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4776926,
+            -122.2237805
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4815386,
+            -122.2291013
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4823564,
+            -122.2302557
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4842361,
+            -122.2275688
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4840919,
+            -122.2272868
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4841424,
+            -122.2273773
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4842478,
+            -122.22703
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4840145,
+            -122.2270776
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4842334,
+            -122.2263155
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866182,
+            -122.2254642
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866361,
+            -122.2249701
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4877465,
+            -122.2267839
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4875191,
+            -122.2264895
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864544,
+            -122.2262176
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4865887,
+            -122.2260889
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4865823,
+            -122.2266893
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866637,
+            -122.2267772
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4865243,
+            -122.227315
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4865368,
+            -122.227484
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866302,
+            -122.2275165
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866331,
+            -122.2276016
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866648,
+            -122.2281149
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866063,
+            -122.228356
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866063,
+            -122.2287067
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4856592,
+            -122.229039
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.486,
+            -122.2292224
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4861745,
+            -122.2292317
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4862711,
+            -122.2290614
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4861077,
+            -122.229048
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864397,
+            -122.2290386
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4863461,
+            -122.2292522
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866385,
+            -122.2291134
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866483,
+            -122.2292354
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.486564,
+            -122.2293196
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864424,
+            -122.2295466
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864291,
+            -122.2297166
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4862389,
+            -122.2300123
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4863799,
+            -122.2300639
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4865305,
+            -122.2299828
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866002,
+            -122.2300813
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864932,
+            -122.2303442
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864807,
+            -122.2305132
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4863754,
+            -122.2306567
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4868244,
+            -122.2309125
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4873544,
+            -122.2310268
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4875624,
+            -122.2313212
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.486826,
+            -122.2323019
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4865797,
+            -122.2321802
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4863711,
+            -122.2321386
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864275,
+            -122.2319703
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4863325,
+            -122.2317805
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4854133,
+            -122.2306661
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4854102,
+            -122.2304629
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4853921,
+            -122.2296431
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4851005,
+            -122.2285699
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4850555,
+            -122.2287771
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4850869,
+            -122.2288247
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4835039,
+            -122.231349
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4829742,
+            -122.23515
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4824078,
+            -122.2357794
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4820196,
+            -122.2361062
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4864254,
+            -122.2368898
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.486279,
+            -122.2363959
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4862524,
+            -122.2353187
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4866877,
+            -122.2356915
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4871607,
+            -122.2358142
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4875826,
+            -122.235378
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4877971,
+            -122.2353961
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4867606,
+            -122.2337969
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.486431,
+            -122.2332068
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.48637,
+            -122.2332644
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4862226,
+            -122.2339565
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.486336,
+            -122.2340453
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4863118,
+            -122.2347417
+        ]
+    },
+    {
+        "Trash Bin":"Yes",
+        "Coordinates":[
+            37.4861458,
+            -122.2345754
+        ]
+    }
 ]
