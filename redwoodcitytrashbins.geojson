@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.216341,37.4796929 ]
+       "coordinates":  [ -122.2337737,37.4853593 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -15,7 +15,67 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2174921,37.4805095 ]
+       "coordinates":  [ -122.23386459999999,37.4850526 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2252912,37.4837314 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.229568,37.4564185 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.22964950000001,37.456371600000004 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.229848,37.457010600000004 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.21634099999999,37.4796929 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.21749209999999,37.4805095 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -35,7 +95,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2219566,37.4821915 ]
+       "coordinates":  [ -122.22195659999998,37.4821915 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -45,7 +105,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2220042,37.4819196 ]
+       "coordinates":  [ -122.22200420000001,37.4819196 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -55,7 +115,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2235079,37.4770862 ]
+       "coordinates":  [ -122.22350790000002,37.4770862 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -65,7 +125,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.223414,37.4770123 ]
+       "coordinates":  [ -122.22341399999999,37.4770123 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -85,7 +145,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2233081,37.4769415 ]
+       "coordinates":  [ -122.2233081,37.476941499999995 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -95,7 +155,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2237805,37.4776926 ]
+       "coordinates":  [ -122.22378049999999,37.477692600000005 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -105,7 +165,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2291013,37.4815386 ]
+       "coordinates":  [ -122.22910130000001,37.4815386 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -125,17 +185,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2275688,37.4842361 ]
-    },
-    "properties": {
-    "Trash Bin":"Yes"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.2272868,37.4840919 ]
+       "coordinates":  [ -122.22756880000001,37.484236100000004 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -155,7 +205,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.22703,37.4842478 ]
+       "coordinates":  [ -122.2272868,37.4840919 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -165,7 +215,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2270776,37.4840145 ]
+       "coordinates":  [ -122.22703,37.48424779999999 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.22707759999999,37.4840145 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -195,7 +255,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2249701,37.4866361 ]
+       "coordinates":  [ -122.2249701,37.486636100000005 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -205,7 +265,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2267839,37.4877465 ]
+       "coordinates":  [ -122.22678390000002,37.4877465 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -235,7 +295,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2260889,37.4865887 ]
+       "coordinates":  [ -122.2260889,37.486588700000006 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -245,7 +305,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2266893,37.4865823 ]
+       "coordinates":  [ -122.22677720000002,37.4866637 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -255,7 +315,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2267772,37.4866637 ]
+       "coordinates":  [ -122.22668929999999,37.486582299999995 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -265,7 +325,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.227315,37.4865243 ]
+       "coordinates":  [ -122.22731499999999,37.4865243 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -275,7 +335,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.227484,37.4865368 ]
+       "coordinates":  [ -122.22760159999999,37.4866331 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -285,7 +345,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2275165,37.4866302 ]
+       "coordinates":  [ -122.22751650000001,37.4866302 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -295,17 +355,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2276016,37.4866331 ]
-    },
-    "properties": {
-    "Trash Bin":"Yes"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.2281149,37.4866648 ]
+       "coordinates":  [ -122.227484,37.486536799999996 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -325,6 +375,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -122.2281149,37.4866648 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.2287067,37.4866063 ]
     },
     "properties": {
@@ -335,7 +395,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.229039,37.4856592 ]
+       "coordinates":  [ -122.22903899999999,37.4856592 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -345,7 +405,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2292224,37.486 ]
+       "coordinates":  [ -122.22922240000001,37.486 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -365,27 +425,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -122.22904799999999,37.486107700000005 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.2290614,37.4862711 ]
-    },
-    "properties": {
-    "Trash Bin":"Yes"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.229048,37.4861077 ]
-    },
-    "properties": {
-    "Trash Bin":"Yes"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.2290386,37.4864397 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -405,6 +455,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -122.2290386,37.486439700000005 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -122.2291134,37.4866385 ]
     },
     "properties": {
@@ -415,7 +475,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2292354,37.4866483 ]
+       "coordinates":  [ -122.22923540000001,37.48664829999999 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -455,7 +515,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2300123,37.4862389 ]
+       "coordinates":  [ -122.23006389999999,37.4863799 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -465,7 +525,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2300639,37.4863799 ]
+       "coordinates":  [ -122.23001229999998,37.4862389 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -485,7 +545,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2300813,37.4866002 ]
+       "coordinates":  [ -122.23008130000001,37.486600200000005 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -495,7 +555,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2303442,37.4864932 ]
+       "coordinates":  [ -122.2303442,37.486493200000005 ]
+    },
+    "properties": {
+    "Trash Bin":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2306567,37.48637539999999 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -506,16 +576,6 @@
     "geometry": {
        "type": "Point",
        "coordinates":  [ -122.2305132,37.4864807 ]
-    },
-    "properties": {
-    "Trash Bin":"Yes"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.2306567,37.4863754 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -545,7 +605,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2313212,37.4875624 ]
+       "coordinates":  [ -122.23132120000001,37.4875624 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -555,7 +615,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2323019,37.486826 ]
+       "coordinates":  [ -122.23230190000001,37.486826 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -565,7 +625,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2321802,37.4865797 ]
+       "coordinates":  [ -122.23218020000002,37.4865797 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -585,7 +645,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2319703,37.4864275 ]
+       "coordinates":  [ -122.2319703,37.486427500000005 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -605,7 +665,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2306661,37.4854133 ]
+       "coordinates":  [ -122.23066609999998,37.4854133 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -615,7 +675,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2304629,37.4854102 ]
+       "coordinates":  [ -122.23046289999999,37.485410200000004 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -625,7 +685,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2296431,37.4853921 ]
+       "coordinates":  [ -122.22964309999999,37.485392100000006 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -645,7 +705,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2287771,37.4850555 ]
+       "coordinates":  [ -122.2288247,37.4850869 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -655,7 +715,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2288247,37.4850869 ]
+       "coordinates":  [ -122.2287771,37.4850555 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -705,7 +765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2368898,37.4864254 ]
+       "coordinates":  [ -122.2368898,37.486425399999995 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -715,7 +775,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2363959,37.486279 ]
+       "coordinates":  [ -122.2363959,37.486278999999996 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -735,7 +795,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2356915,37.4866877 ]
+       "coordinates":  [ -122.2356915,37.486687700000004 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -745,7 +805,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2358142,37.4871607 ]
+       "coordinates":  [ -122.2358142,37.487160700000004 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -765,7 +825,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2353961,37.4877971 ]
+       "coordinates":  [ -122.23539609999999,37.4877971 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -775,7 +835,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2337969,37.4867606 ]
+       "coordinates":  [ -122.2337969,37.486760600000004 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -785,7 +845,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2332068,37.486431 ]
+       "coordinates":  [ -122.23320679999999,37.486431 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -795,7 +855,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2332644,37.48637 ]
+       "coordinates":  [ -122.23326440000001,37.48637 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -805,7 +865,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2339565,37.4862226 ]
+       "coordinates":  [ -122.23395649999999,37.486222600000005 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -815,7 +875,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2340453,37.486336 ]
+       "coordinates":  [ -122.23404529999999,37.486336 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -825,7 +885,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2347417,37.4863118 ]
+       "coordinates":  [ -122.2345754,37.486145799999996 ]
     },
     "properties": {
     "Trash Bin":"Yes"
@@ -835,7 +895,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.2345754,37.4861458 ]
+       "coordinates":  [ -122.23474170000001,37.486311799999996 ]
     },
     "properties": {
     "Trash Bin":"Yes"

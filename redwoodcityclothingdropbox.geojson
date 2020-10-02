@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2083226,37.4674266 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24580279999999,37.4700019 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2212384,37.4818286 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24225990000002,37.466913 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.20246329999999,37.470564200000005 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2235897,37.4715434 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.22783700000001,37.4559908 ]
+    },
+    "properties": {
+    "Clothes Drop Box":"Yes"
+    }
+  }
+]
+}
