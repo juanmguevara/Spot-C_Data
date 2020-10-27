@@ -1,2 +1,2 @@
-# trashbins
-Trash Bin Locator for Redwood City California (Beta)
+# Spot-C Data
+
