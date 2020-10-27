@@ -1,0 +1,83 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1589583,37.4281615 ]
+    },
+    "properties": {
+    "FacilityName":"Peninsula Sanitary Service, Inc.",
+    "Address":"339 Bonair Siding Rd, Stanford 94305",
+    "Type":"Electronics",
+    "Phone":"(650) 321-4236"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0362299,37.5256365 ]
+    },
+    "properties": {
+    "FacilityName":"Elite Recycling Services, LLC",
+    "Address":"37366 Filbert Street, Newark 94560",
+    "Type":"Electronics",
+    "Phone":"(510) 713-9500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3735809,37.6028908 ]
+    },
+    "properties": {
+    "FacilityName":"GreenCitizen, Inc.",
+    "Address":"1831 Bayshore Highway, Burlingame 94010",
+    "Type":"Electronics",
+    "Phone":"(650) 493-8700"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2584763,37.5173614 ]
+    },
+    "properties": {
+    "FacilityName":"South Bay Recycling, LLC",
+    "Address":"333 Shoreway Rd, San Carlos 94070",
+    "Type":"Electronics",
+    "Phone":"(650) 802-8355"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.090869,37.4189979 ]
+    },
+    "properties": {
+    "FacilityName":"Leghorn Hauling",
+    "Address":"1948 Leghorn Street, Mountain View 94043",
+    "Type":"Electronics",
+    "Phone":"(650) 716-7531"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4316392,37.4689271 ]
+    },
+    "properties": {
+    "FacilityName":"Strawflower Electronics, Inc.",
+    "Address":"160 San Mateo Road, Half Moon Bay 94019",
+    "Type":"Electronics",
+    "Phone":"(650) 726-8181"
+    }
+  }
+]
+}

@@ -1,0 +1,460 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0065285,37.5270813 ]
+    },
+    "properties": {
+    "FacilityName":"Firestone #015458 Newark",
+    "Address":"5795 Mowry Ave, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 791-0495"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1862676,37.4548745 ]
+    },
+    "properties": {
+    "FacilityName":"M & R Automotive",
+    "Address":"1281 El Camino Real, Menlo Park 94025",
+    "Type":"UsedOil",
+    "Phone":"(650) 325-3900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3048056,37.5432251 ]
+    },
+    "properties": {
+    "FacilityName":"O’Reilly Auto Parts #3468",
+    "Address":"2640 S. El Camino Real, San Mateo 94403",
+    "Type":"UsedOil",
+    "Phone":"(650) 349-1275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0443686,37.5486638 ]
+    },
+    "properties": {
+    "FacilityName":"O’Reilly Auto Parts #3464",
+    "Address":"35382 Newark Blvd, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 792-9840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1309367,37.417622 ]
+    },
+    "properties": {
+    "FacilityName":"9 Minute Oil & Lube Co",
+    "Address":"3839 El Camino Real, Palo Alto 94306",
+    "Type":"UsedOil",
+    "Phone":"(650) 856-2104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2506328,37.4986938 ]
+    },
+    "properties": {
+    "FacilityName":"O’Reilly Auto Parts #3535",
+    "Address":"1272 El Camino Real, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(650) 595-5112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251652,37.5020118 ]
+    },
+    "properties": {
+    "FacilityName":"Pep Boys #827",
+    "Address":"1087 Old County Rd, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(650) 632-1522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2934327,37.5329061 ]
+    },
+    "properties": {
+    "FacilityName":"AutoZone #2854",
+    "Address":"3880 S. El Camino Real, San Mateo 94403",
+    "Type":"UsedOil",
+    "Phone":"(650) 372-0535"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0991448,37.4198485 ]
+    },
+    "properties": {
+    "FacilityName":"Larry's AutoWorks",
+    "Address":"2526  Leghorn Street, Mountain View 94043-1614",
+    "Type":"UsedOil",
+    "Phone":"(650) 968-5202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1413841,37.4643812 ]
+    },
+    "properties": {
+    "FacilityName":"AutoZone #3302",
+    "Address":"2160 University Avenue, East Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(650) 321-7221"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3105302,37.5720025 ]
+    },
+    "properties": {
+    "FacilityName":"O’Reilly Auto Parts #3639",
+    "Address":"400 S. Norfolk Street, San Mateo 94401",
+    "Type":"UsedOil",
+    "Phone":"(650) 344-2448"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4068735,37.4805947 ]
+    },
+    "properties": {
+    "FacilityName":"Ox Mountain Landfill",
+    "Address":"12310 San Mateo Road, Half Moon Bay 94019",
+    "Type":"UsedOil",
+    "Phone":"(650) 713-3621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2535354,37.5012321 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #0610",
+    "Address":"1030 El Camino Real, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3188435,37.5663013 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #1151",
+    "Address":"407 S Delaware St, San Mateo 94402",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0050949,37.5231128 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #1166",
+    "Address":"39197 Cedar Blvd, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0507843,37.5491753 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #2352",
+    "Address":"6305 Jarvis Avenue, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0880371,37.3873825 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #2342",
+    "Address":"1141 W. El Camino Real, Mountain View 94040",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.102938,37.41632 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #1283",
+    "Address":"4201 Middlefield Rd, Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.123217,37.4108901 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #1297",
+    "Address":"4195 El Camino Real, Palo Alto 94306",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304883,37.5442288 ]
+    },
+    "properties": {
+    "FacilityName":"Jiffy Lube #0608",
+    "Address":"2517 S El Camino Real, San Mateo 94403",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2836909,37.5273935 ]
+    },
+    "properties": {
+    "FacilityName":"Spiteri's Auto Service, Inc.",
+    "Address":"292 Old County Road, Belmont 94002",
+    "Type":"UsedOil",
+    "Phone":"(650) 593-4758"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0134617,37.5106654 ]
+    },
+    "properties": {
+    "FacilityName":"Pick-N-Pull/ Newark #43",
+    "Address":"7400 Mowry Ave, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 742-2277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0970303,37.3928315 ]
+    },
+    "properties": {
+    "FacilityName":"O'Reilly Auto Parts #3525",
+    "Address":"1915 El Camino Real West, Mountain View 94040",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1113923,37.4066177 ]
+    },
+    "properties": {
+    "FacilityName":"O'Reilly Auto Parts #2553",
+    "Address":"2620 California Street, Mountain View 94040",
+    "Type":"UsedOil",
+    "Phone":"(650) 941-4440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3117925,37.5733164 ]
+    },
+    "properties": {
+    "FacilityName":"H & D Auto Repair, Inc.",
+    "Address":"1471 East 3rd Avenue, San Mateo 94401",
+    "Type":"UsedOil",
+    "Phone":"(650) 342-8818"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2450828,37.4937574 ]
+    },
+    "properties": {
+    "FacilityName":"Perfect Lube",
+    "Address":"1792 El Camino Real, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(650) 892-6463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.309499,37.548378 ]
+    },
+    "properties": {
+    "FacilityName":"OilStop",
+    "Address":"2009 El Camino Real, San Mateo 94403",
+    "Type":"UsedOil",
+    "Phone":"(520) 940-4044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2774623,37.5537978 ]
+    },
+    "properties": {
+    "FacilityName":"Hillsdale Arco Auto Repair",
+    "Address":"880 E Hillsdale Blvd, Foster City 94404",
+    "Type":"UsedOil",
+    "Phone":"(650) 349-6938"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1017846,37.4192179 ]
+    },
+    "properties": {
+    "FacilityName":"Oil Changers #203",
+    "Address":"780 San Antonio Rd, Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1563104,37.4672115 ]
+    },
+    "properties": {
+    "FacilityName":"Oil Changer #611",
+    "Address":"944 Willow Road, Menlo Park 94025",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0056226,37.5235408 ]
+    },
+    "properties": {
+    "FacilityName":"Pep Boys #6458",
+    "Address":"39165 Cedar Blvd., Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(215) 430-9226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.116742,37.3769996 ]
+    },
+    "properties": {
+    "FacilityName":"Tire Choice",
+    "Address":"317 First Street, Los Altos 94022",
+    "Type":"UsedOil",
+    "Phone":"(585) 784-3378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1175816,37.4502209 ]
+    },
+    "properties": {
+    "FacilityName":"Anderson Honda",
+    "Address":"1766 Embarcadero Rd., Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(650) 843-6041"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9941404,37.5244032 ]
+    },
+    "properties": {
+    "FacilityName":"Winn Kia of Fremont",
+    "Address":"5633 John Muir Dr., Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 344-2013"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9964503,37.5225072 ]
+    },
+    "properties": {
+    "FacilityName":"Winn Volkswagen",
+    "Address":"39695 Balentine Dr., Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 668-8032"
+    }
+  }
+]
+}
