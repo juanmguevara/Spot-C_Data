@@ -1,0 +1,90 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0124392,37.4176479 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Sunnyvale Material and Recovery Transfer Station (SMART)",
+    "StreetAddress":"301 Carl Rd",
+    "City":"Sunnyvale",
+    "PostalCode":94089,
+    "Address":"301 Carl Rd, Sunnyvale 94089",
+    "Type":"Tires",
+    "Phone":"(408) 752-8530"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4100031,37.6398922 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"North State Environmental, Inc.",
+    "StreetAddress":"214 Shaw Rd",
+    "City":"South San Francisco",
+    "PostalCode":94080,
+    "Address":"214 Shaw Rd, South San Francisco 94080",
+    "Type":"Tires",
+    "Phone":"(650) 588-2838"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.124304,37.6547039 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Bay Area Tire Recycling, Inc",
+    "StreetAddress":"21401 Curtis Street",
+    "City":"Hayward",
+    "PostalCode":94545,
+    "Address":"21401 Curtis Street, Hayward 94545",
+    "Type":"Tires",
+    "Phone":"(510) 887-8473"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1945947,37.7116921 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Davis Street Transfer Station",
+    "StreetAddress":"2615 Davis St",
+    "City":"San Leandro",
+    "PostalCode":94577,
+    "Address":"2615 Davis St, San Leandro 94577",
+    "Type":"Tires",
+    "Phone":"(510) 638-2303"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1883073,37.7426395 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"New Pride Tire, Inc. (Retreader)",
+    "StreetAddress":"8977 Railroad Avenue",
+    "City":"Oakland",
+    "PostalCode":94621,
+    "Address":"8977 Railroad Avenue, Oakland 94621",
+    "Type":"Tires",
+    "Phone":"(510) 569-9500"
+    }
+  }
+]
+}
