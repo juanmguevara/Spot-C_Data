@@ -1,0 +1,22 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0124392,37.4176479 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Sunnyvale Material and Recovery Transfer Station (SMART)",
+    "StreetAddress":"301 Carl Rd",
+    "City":"Sunnyvale",
+    "PostalCode":94089,
+    "Address":"301 Carl Rd, Sunnyvale 94089",
+    "Type":"Tires",
+    "Phone":"(408) 752-8530"
+    }
+  }
+]
+}

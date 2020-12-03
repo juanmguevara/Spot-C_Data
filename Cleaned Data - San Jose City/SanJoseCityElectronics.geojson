@@ -1,0 +1,294 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1589583,37.4281615 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Peninsula Sanitary Service, Inc.",
+    "StreetAddress":"339 Bonair Siding Rd",
+    "City":"Stanford",
+    "PostalCode":94305,
+    "Address":"339 Bonair Siding Rd, Stanford 94305",
+    "Type":"Electronics",
+    "Phone":"(650) 321-4236"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9796583,37.5047162 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Allied Waste Services of Alameda County",
+    "StreetAddress":"42600 Boyce Rd",
+    "City":"Fremont",
+    "PostalCode":94538,
+    "Address":"42600 Boyce Rd, Fremont 94538",
+    "Type":"Electronics",
+    "Phone":"(510) 657-3500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8973495,37.3582172 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Goodwill of Silicon Valley",
+    "StreetAddress":"950 N 7th St",
+    "City":"San Jose",
+    "PostalCode":95112,
+    "Address":"950 N 7th St, San Jose 95112",
+    "Type":"Electronics",
+    "Phone":"(408) 998-5774"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9901372,37.5100907 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Fremont Recycling and Transfer Station",
+    "StreetAddress":"41149 Boyce Rd",
+    "City":"Fremont",
+    "PostalCode":94538,
+    "Address":"41149 Boyce Rd, Fremont 94538",
+    "Type":"Electronics",
+    "Phone":"(510) 252-0500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9445557,37.5149204 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Surplus Service",
+    "StreetAddress":"3090 Osgood Ct",
+    "City":"Fremont",
+    "PostalCode":94539,
+    "Address":"3090 Osgood Ct, Fremont 94539",
+    "Type":"Electronics",
+    "Phone":"(510) 226-0600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8820679,37.4121058 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Auction BDI",
+    "StreetAddress":"1108 Pecten Ct",
+    "City":"Milpitas",
+    "PostalCode":95035,
+    "Address":"1108 Pecten Ct, Milpitas 95035",
+    "Type":"Electronics",
+    "Phone":"(408) 955-7900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.953088,37.5003556 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Y2K Electronics Recycling, LLC",
+    "StreetAddress":"44875 Industrial Dr",
+    "City":"Fremont",
+    "PostalCode":94538,
+    "Address":"44875 Industrial Dr, Fremont 94538",
+    "Type":"Electronics",
+    "Phone":"(510) 925-9919"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0362299,37.5256365 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Elite Recycling Services, LLC",
+    "StreetAddress":"37366 Filbert Street",
+    "City":"Newark",
+    "PostalCode":94560,
+    "Address":"37366 Filbert Street, Newark 94560",
+    "Type":"Electronics",
+    "Phone":"(510) 713-9500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8652449,37.3112377 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"ATT Recycle",
+    "StreetAddress":"215 Leo Avenue",
+    "City":"San Jose",
+    "PostalCode":95112,
+    "Address":"215 Leo Avenue, San Jose 95112",
+    "Type":"Electronics",
+    "Phone":"(669) 342-7588"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2584763,37.5173614 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"South Bay Recycling, LLC",
+    "StreetAddress":"333 Shoreway Rd",
+    "City":"San Carlos",
+    "PostalCode":94070,
+    "Address":"333 Shoreway Rd, San Carlos 94070",
+    "Type":"Electronics",
+    "Phone":"(650) 802-8355"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.090869,37.4189979 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Leghorn Hauling",
+    "StreetAddress":"1948 Leghorn Street",
+    "City":"Mountain View",
+    "PostalCode":94043,
+    "Address":"1948 Leghorn Street, Mountain View 94043",
+    "Type":"Electronics",
+    "Phone":"(650) 716-7531"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6512149,37.1411707 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Digital Green Global",
+    "StreetAddress":"875 Jarvis Drive",
+    "City":"Morgan Hill",
+    "PostalCode":95037,
+    "Address":"875 Jarvis Drive, Morgan Hill 95037",
+    "Type":"Electronics",
+    "Phone":"(408) 320-1560"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9230443,37.4771532 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Evergreen IT Solutions",
+    "StreetAddress":"47825 Warm Springs Blvd",
+    "City":"Fremont",
+    "PostalCode":94539,
+    "Address":"47825 Warm Springs Blvd, Fremont 94539",
+    "Type":"Electronics",
+    "Phone":"(408) 612-1667"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8966826,37.3717545 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"San Jose Conservation Corps & Charter School",
+    "StreetAddress":"1534 Berger Dr",
+    "City":"San Jose",
+    "PostalCode":95112,
+    "Address":"1534 Berger Dr, San Jose 95112",
+    "Type":"Electronics",
+    "Phone":"(408) 283-7171"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8835217,37.4109346 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Green EWaste Recycling Center",
+    "StreetAddress":"1664 Watson Court",
+    "City":"Milpitas",
+    "PostalCode":95035,
+    "Address":"1664 Watson Court, Milpitas 95035",
+    "Type":"Electronics",
+    "Phone":"(408) 898-8640"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.889302,37.3642771 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"A&J Electronics Recycling E-Waste",
+    "StreetAddress":"763 Mabury Rd",
+    "City":"San Jose",
+    "PostalCode":95133,
+    "Address":"763 Mabury Rd, San Jose 95133",
+    "Type":"Electronics",
+    "Phone":"(408) 490-4516"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9077515,37.3705958 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Nortech Recycling LLC",
+    "StreetAddress":"480 Reynolds Cir",
+    "City":"San Jose",
+    "PostalCode":95112,
+    "Address":"480 Reynolds Cir, San Jose 95112",
+    "Type":"Electronics",
+    "Phone":"(408) 899-6059"
+    }
+  }
+]
+}

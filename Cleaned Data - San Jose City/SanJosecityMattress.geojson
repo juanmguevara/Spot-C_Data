@@ -1,0 +1,260 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8652449,37.3112377 ]
+    },
+    "properties": {
+    "FacilityName":"Leo Recycle",
+    "County":"",
+    "Country":"",
+    "Address":"215 Leo Ave. San Jose, CA 95112",
+    "Service Type":"",
+    "Drop Off":"",
+    "Phone":"",
+    "Hours":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8794975,37.3664863 ]
+    },
+    "properties": {
+    "FacilityName":"Bay Area Scavenger & Recycling",
+    "County":" Santa Clara ",
+    "Country":" United States ",
+    "Address":"11740 Berryessa Rd. San Jose, CA 94587",
+    "Service Type":" free drop-off for businesses free drop-off for residents ",
+    "Drop Off":" up to 10 units. Closed on holidays. ",
+    "Phone":"650-515-0393",
+    "Hours":" mon 7:00am-5:00pm tue 7:00am-5:00pm wed 7:00am-5:00pm thur 7:00am-5:00pm fri 7:00am-5:00pm sat 7:00am-5:00pm sun 7:00am-5:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8980609,37.3598071 ]
+    },
+    "properties": {
+    "FacilityName":"Goodwill of Silicon Valley",
+    "County":" Santa Clara ",
+    "Country":" United States ",
+    "Address":"1080 North 7th Street San Jose, CA 95112",
+    "Service Type":" free drop-off for businesses free drop-off for residents ",
+    "Drop Off":" Limit of 6 per drop off ",
+    "Phone":"408-869-9158",
+    "Hours":" mon 9:00am-4:00pm tue 9:00am-4:00pm wed 9:00am-4:00pm thur 9:00am-4:00pm fri 9:00am-4:00pm sat 9:00am-4:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8959268,37.3661584 ]
+    },
+    "properties": {
+    "FacilityName":"Greenwaste Recycling",
+    "County":" Santa Clara ",
+    "Country":" United States ",
+    "Address":"625 Charles St. San Jose, CA 95112",
+    "Service Type":" free drop-off for residents permits business drop-offs but fees apply  ",
+    "Drop Off":"",
+    "Phone":"408-535-3500",
+    "Hours":" mon 7:00am-2:00pm tue 7:00am-2:00pm wed 7:00am-2:00pm thur 7:00am-2:00pm fri 7:00am-2:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9287849,37.4539839 ]
+    },
+    "properties": {
+    "FacilityName":"Newby Island Landfill",
+    "County":" Santa Clara ",
+    "Country":" United States ",
+    "Address":"1601 Dixon Landing Road Milpitas, CA 95305",
+    "Service Type":" free drop-off for residents permits business drop-offs but fees apply ",
+    "Drop Off":"",
+    "Phone":"408-262-1401",
+    "Hours":" mon 8:00am-4:00pm tue 8:00am-4:00pm wed 8:00am-4:00pm mon 8:00am-4:00pm fri 8:00am-4:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0124392,37.4176479 ]
+    },
+    "properties": {
+    "FacilityName":"Bay Counties SMART Station - SV, MV & PA Residents",
+    "County":" Santa Clara ",
+    "Country":" United States ",
+    "Address":"301 Carl Rd. Sunnyvale, CA 94089",
+    "Service Type":" free drop-off for businesses free drop-off for residents ",
+    "Drop Off":" up to 10 units ",
+    "Phone":"408-752-8530",
+    "Hours":" mon 8:00am-5:00pm tue 8:00am-5:00pm wed 8:00am-5:00pm mon 8:00am-5:00pm fri 8:00am-5:00pm sat 8:00am-5:00pm sun 8:00am-5:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0713638,37.4081544 ]
+    },
+    "properties": {
+    "FacilityName":"Recology Mountain View",
+    "County":" Santa Clara ",
+    "Country":" United States ",
+    "Address":"935 Terra Bella Ave Mountain View, CA 94043",
+    "Service Type":" free drop-off for residents residential curbside pick-up available ",
+    "Drop Off":"",
+    "Phone":"650-967-3034",
+    "Hours":" mon 8:00am-4:00pm tue 8:00am-4:00pm wed 8:00am-4:00pm thur 8:00am-4:00pm fri 8:00am-4:00pm sat 9:00am-4:00pm INFORMATION: Preferred Thursday pickup between 7am-3pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9901372,37.5100907 ]
+    },
+    "properties": {
+    "FacilityName":"Fremont Transfer and Recycling",
+    "County":" Alameda ",
+    "Country":" United States ",
+    "Address":"41149 Boyce Rd. Fremont, CA 94538",
+    "Service Type":" free drop-off for residents ",
+    "Drop Off":" 4 units per vehicle per day ",
+    "Phone":"510-252-0500",
+    "Hours":" mon 8:00am-4:00pm tue 8:00am-4:00pm wed 8:00am-4:00pm thur 8:00am-4:00pm fri 8:00am-4:00pm sat 8:00am-4:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0783866,37.0954005 ]
+    },
+    "properties": {
+    "FacilityName":"Ben Lomond Landfill",
+    "County":" Santa Cruz ",
+    "Country":" United States ",
+    "Address":"9835 Newell Creek Rd. Watsonville, CA 95076",
+    "Service Type":" free drop-off for residents permits business drop-offs but fees apply ",
+    "Drop Off":" up to 10 units ",
+    "Phone":"831-454-2430",
+    "Hours":" mon 7:30am-3:30pm tue 7:30am-3:30pm wed 7:30am-3:30pm mon 7:30am-3:30pm fri 7:30am-3:30pm sat 7:30am-3:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.816294,36.915615 ]
+    },
+    "properties": {
+    "FacilityName":"Buena Vista Landfill",
+    "County":" Santa Cruz ",
+    "Country":" United States ",
+    "Address":"1231 Buena Vista Dr. Watsonville, CA 95076",
+    "Service Type":" free drop-off for residents permits business drop-offs but fees apply ",
+    "Drop Off":" up to 10 units ",
+    "Phone":"831-454-2430",
+    "Hours":" mon -"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8537259,37.6753893 ]
+    },
+    "properties": {
+    "FacilityName":"Pleasanton Transfer Station",
+    "County":" Alameda ",
+    "Country":" United States ",
+    "Address":"3110 Busch Rd Pleasanton, CA 94566",
+    "Service Type":" free drop-off for residents ",
+    "Drop Off":" 5 units per vehicle per day ",
+    "Phone":"925-846-2042",
+    "Hours":" mon 8:00am-4:00pm tue 8:00am-4:00pm wed 8:00am-4:00pm thur 8:00am-4:00pm fri 8:00am-4:00pm sat 8:00am-4:00pm sun 8:00am-4:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1046918,36.9725698 ]
+    },
+    "properties": {
+    "FacilityName":"Dimeo Lane Landfill",
+    "County":" Santa Cruz ",
+    "Country":" United States  ",
+    "Address":"605 Dimeo Ln. Santa Cruz, CA 95060",
+    "Service Type":" free drop-off for businesses free drop-off for residents ",
+    "Drop Off":" up to 10 units ",
+    "Phone":"",
+    "Hours":" mon -"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2584763,37.5173614 ]
+    },
+    "properties": {
+    "FacilityName":"Shoreway Environmental Center",
+    "County":" San Mateo ",
+    "Country":" United States ",
+    "Address":"333 Shoreway Road San Carlos, CA 94070",
+    "Service Type":" free drop-off for businesses free drop-off for residents ",
+    "Drop Off":" up to 10 units ",
+    "Phone":"(650) 802-8355",
+    "Hours":" mon 6:00am-6:00pm tue 6:00am-6:00pm wed 6:00am-6:00pm mon 6:00am-6:00pm fri 6:00am-6:00pm sat 8:00am-5:00pm sun 8:00am-5:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1255906,37.6335739 ]
+    },
+    "properties": {
+    "FacilityName":"Omega JV, Inc.",
+    "County":" Alameda ",
+    "Country":" United States ",
+    "Address":"3449 Enterprise Ave. Hayward, CA 94545",
+    "Service Type":" free drop-off for businesses free drop-off for residents ",
+    "Drop Off":" 10 units per vehicle, per day ",
+    "Phone":"510-827-5756",
+    "Hours":" mon 9:00am-4:30pm tue 9:00am-4:30pm wed 9:00am-4:30pm thur 9:00am-4:30pm fri 9:00am-4:30pm sat 9:00am-2:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4177604,37.6763561 ]
+    },
+    "properties": {
+    "FacilityName":"Tracy Material Recovery Facility & Transfer Station",
+    "County":" San Joaquin ",
+    "Country":" United States ",
+    "Address":"30703 S. MacArthur Dr. Tracy, CA 95377",
+    "Service Type":" free drop-off for residents permits business drop-offs but fees apply ",
+    "Drop Off":" 4 units per day ",
+    "Phone":"209-832-2355",
+    "Hours":" mon 8:00am-4:00pm tue 8:00am-4:00pm wed 8:00am-4:00pm thur 8:00am-4:00pm fri 8:00am-4:00pm sat 8:00am-3:30pm"
+    }
+  }
+]
+}

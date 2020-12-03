@@ -1,0 +1,175 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9578636,37.3698357 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Danny Recycling Center",
+    "StreetAddress":"1745 Walsh Ave ",
+    "City":"Santa Clara",
+    "PostalCode":95050,
+    "Address":"1745 Walsh Ave , Santa Clara 95050",
+    "Type":"CRV",
+    "Phone":"(408) 492-9033"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0713638,37.4081544 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Mountain View Recycling Center",
+    "StreetAddress":"935 Terra Bella Ave ",
+    "City":"Mountain View",
+    "PostalCode":94043,
+    "Address":"935 Terra Bella Ave , Mountain View 94043",
+    "Type":"CRV",
+    "Phone":"(650) 967-3034"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6362425,37.1288501 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Goodwill Industries of Santa Clara County",
+    "StreetAddress":"840 E Dunne Ave ",
+    "City":"Morgan Hill",
+    "PostalCode":95037,
+    "Address":"840 E Dunne Ave , Morgan Hill 95037",
+    "Type":"CRV",
+    "Phone":"(408) 998-5774"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0124392,37.4176479 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Bay Counties Waste Services Inc",
+    "StreetAddress":"301 Carl Rd ",
+    "City":"Sunnyvale",
+    "PostalCode":94089,
+    "Address":"301 Carl Rd , Sunnyvale 94089",
+    "Type":"CRV",
+    "Phone":"(408) 566-1809"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8828992,37.3673256 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Schnitzer Steel Industries Inc",
+    "StreetAddress":"11665 BERRYESSA RD ",
+    "City":"SAN JOSE",
+    "PostalCode":95133,
+    "Address":"11665 BERRYESSA RD , SAN JOSE 95133",
+    "Type":"CRV",
+    "Phone":"(408) 452-0777"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9510897,37.2799528 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Goodwill Industries",
+    "StreetAddress":"2341 S Winchester Blvd ",
+    "City":"Campbell",
+    "PostalCode":95008,
+    "Address":"2341 S Winchester Blvd , Campbell 95008",
+    "Type":"CRV",
+    "Phone":"(408) 869-9244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8957934,37.3610513 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"San Jose Metals Inc",
+    "StreetAddress":"1032 N 10th St ",
+    "City":"San Jose",
+    "PostalCode":95112,
+    "Address":"1032 N 10th St , San Jose 95112",
+    "Type":"CRV",
+    "Phone":"(408) 293-4032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9066592,37.3155622 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Ranch Town Recycling Center",
+    "StreetAddress":"775 Lincoln Ave ",
+    "City":"San Jose",
+    "PostalCode":95126,
+    "Address":"775 Lincoln Ave , San Jose 95126",
+    "Type":"CRV",
+    "Phone":"(408) 292-3333"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8513908,37.3347719 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Story Road Recycling LLC",
+    "StreetAddress":"1303 Story Rd ",
+    "City":"San Jose",
+    "PostalCode":95122,
+    "Address":"1303 Story Rd , San Jose 95122",
+    "Type":"CRV",
+    "Phone":"(626) 428-1383"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.079458,37.09115 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Grey Bears",
+    "StreetAddress":"9835 NEWELL CREEK RD ",
+    "City":"BEN LOMOND",
+    "PostalCode":95005,
+    "Address":"9835 NEWELL CREEK RD , BEN LOMOND 95005",
+    "Type":"CRV",
+    "Phone":"(831) 479-1055"
+    }
+  }
+]
+}

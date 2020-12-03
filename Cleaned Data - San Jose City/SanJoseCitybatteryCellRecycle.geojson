@@ -1,0 +1,530 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8677353,37.3598121 ]
+    },
+    "properties": {
+    "FacilityName":"County of Santa Clara - Las Plumas",
+    "Address":"1608 Las Plumas Ave San Jose, CA 95133",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-202-8557",
+    "Website":" http://www.sccgov.org/sites/scc/healthandsafety/Pages/Environmental-Safety.aspx",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9229554,37.3490243 ]
+    },
+    "properties": {
+    "FacilityName":"Lowes",
+    "Address":"750 Newhall Dr San Jose, CA 95110",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-352-0400",
+    "Website":" http://www.lowes.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8681801,37.302912 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"2181 Monterey Hwy San Jose, CA 95125",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-971-4890",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8655338,37.3029413 ]
+    },
+    "properties": {
+    "FacilityName":"uBreakiFix",
+    "Address":"1 Curtner Avenue San Jose, CA 95125",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-899-4060",
+    "Website":" https://www.ubreakifix.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9016176,37.3800767 ]
+    },
+    "properties": {
+    "FacilityName":"Lowes",
+    "Address":"775 Ridder Park Dr San Jose, CA 95131",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-518-4165",
+    "Website":" http://www.lowes.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8245894,37.3543205 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"2855 Story Rd San Jose, CA 95127",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-926-1468",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9486665,37.3653579 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"2435 Lafayette St Santa Clara, CA 95050",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-492-9600",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9612282,37.3501741 ]
+    },
+    "properties": {
+    "FacilityName":"uBreakiFix",
+    "Address":"2014 El Camino Real Santa Clara, CA 95050",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-246-1743",
+    "Website":" https://www.ubreakifix.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.94138,37.292335 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"480 E Hamilton Ave Campbell, CA 95008",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-866-1900",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8587665,37.2758133 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"635 W Capitol Expy San Jose, CA 95136",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-978-1099",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9012619,37.4156323 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"1177 Great Mall Dr Milpitas, CA 95035",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-942-7301",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9213552,37.2633429 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"1855 Hillsdale Ave San Jose, CA 95124",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-978-6807",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9320691,37.2627432 ]
+    },
+    "properties": {
+    "FacilityName":"uBreakiFix",
+    "Address":"2025 Camden Ave San Jose, CA 95124",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-796-7760",
+    "Website":" https://www.ubreakifix.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8627223,37.2486072 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"920 Blossom Hill Rd San Jose, CA 95123",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-224-4900",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9564652,37.2468538 ]
+    },
+    "properties": {
+    "FacilityName":"Los Gatos Ace Hardware",
+    "Address":"15300 Los Gatos Blvd Los Gatos, CA 95032",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-356-7103",
+    "Website":" http://acehardware.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0109301,37.3824733 ]
+    },
+    "properties": {
+    "FacilityName":"Lowes",
+    "Address":"811 E Arques Ave Sunnyvale, CA 94085",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-470-1680",
+    "Website":" http://www.lowes.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8016307,37.2535876 ]
+    },
+    "properties": {
+    "FacilityName":"Lowes",
+    "Address":"5550 Cottle Rd San Jose, CA 95123",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-705-9900",
+    "Website":" http://www.lowes.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0182138,37.3753222 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"680 Kifer Rd Sunnyvale, CA 94086",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-245-3686",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0337918,37.3108473 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"975 S de Anza Blvd San Jose, CA 95129",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-253-3537",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0374642,37.3241814 ]
+    },
+    "properties": {
+    "FacilityName":"uBreakiFix",
+    "Address":"10095 A Saich Way Cupertino, CA 95014",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-255-5522",
+    "Website":" https://www.ubreakifix.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0381968,37.3220639 ]
+    },
+    "properties": {
+    "FacilityName":"Staples",
+    "Address":"20830 Stevens Creek Blvd Cupertino, CA 95014",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-252-1019",
+    "Website":" http://www.staples.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9848561,37.2214275 ]
+    },
+    "properties": {
+    "FacilityName":"Rural Supply Ace Hardware",
+    "Address":"110 S Santa Cruz Ave Los Gatos, CA 95030",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-354-3910",
+    "Website":" http://www.acehardware.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9704172,37.5033049 ]
+    },
+    "properties": {
+    "FacilityName":"Lowes",
+    "Address":"43612 Pacific Commons Blvd Fremont, CA 94538",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"510-344-4920",
+    "Website":" http://www.lowes.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9694146,37.5056766 ]
+    },
+    "properties": {
+    "FacilityName":"uBreakiFix",
+    "Address":"43506 Christy Street Fremont, CA 94538",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"510-573-1777",
+    "Website":" https://www.ubreakifix.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9457957,37.5109937 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"43900 Ice House Ter Fremont, CA 94538",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"510-490-0191",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0989999,37.4217194 ]
+    },
+    "properties": {
+    "FacilityName":"Westlake Ace Hardware",
+    "Address":"2555 E Charleston Rd Mountain View, CA 94043",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"650-528-2123",
+    "Website":" http://www.acehardware.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1353495,37.4591494 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"1781 E Bayshore Rd East Palo Alto, CA 94303",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"650-462-6800",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.02662,37.5447116 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"5401 Thornton Ave Newark, CA 94560",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"510-494-1205",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6530274,37.1554363 ]
+    },
+    "properties": {
+    "FacilityName":"Staples",
+    "Address":"1023 Cochrane Rd Morgan Hill, CA 95037",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"408-779-7505",
+    "Website":" http://www.staples.com",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6349055,37.129171 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"860 E Dunne Ave Morgan Hill, CA 95037",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"408-779-9755",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.069008,37.6126376 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"30055 Industrial Pkwy Union City, CA 94587",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"510-429-5496",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.104306,37.6192578 ]
+    },
+    "properties": {
+    "FacilityName":"Makita Factory Service Center",
+    "Address":"3226 Arden Rd Hayward, CA 94545",
+    "Accepts Type":"Rechargeable Batteries Cellphones",
+    "Phone":"510-732-0830",
+    "Website":"",
+    "Hours":" MONDAY: Please Call TUESDAY: Please Call WEDNESDAY: Please Call THURSDAY: Please Call FRIDAY: Please Call SATURDAY: Please Call SUNDAY: Please Call"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2499209,37.5011512 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"1125 Old County Rd San Carlos, CA 94070",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"650-592-9200",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9632288,36.9844719 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"2600 41st Ave Soquel, CA 95073",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"831-462-5650",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9105089,37.7000122 ]
+    },
+    "properties": {
+    "FacilityName":"The Home Depot",
+    "Address":"6000 Johnson Dr Pleasanton, CA 94588",
+    "Accepts Type":"Rechargeable Batteries",
+    "Phone":"925-847-9200",
+    "Website":" http://www.homedepot.com",
+    "Hours":" MONDAY: 6:00am-10:00pm TUESDAY: 6:00am-10:00pm WEDNESDAY: 6:00am-10:00pm THURSDAY: 6:00am-10:00pm FRIDAY: 6:00am-10:00pm SATURDAY: 6:00am-10:00pm SUNDAY: 8:00am-8:00pm"
+    }
+  }
+]
+}

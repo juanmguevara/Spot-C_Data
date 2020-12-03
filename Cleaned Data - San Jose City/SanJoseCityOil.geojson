@@ -1,0 +1,2300 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0065285,37.5270813 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #015458 Newark",
+    "StreetAddress":"5795 Mowry Ave",
+    "City":"Newark",
+    "PostalCode":"94560",
+    "Address":"5795 Mowry Ave, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 791-0495"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8756066,37.4169149 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #015911 Milpitas",
+    "StreetAddress":"1379 S Park Victoria Drive",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"1379 S Park Victoria Drive, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(408) 945-3911"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2282069,37.480754 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #012858 Redwood City",
+    "StreetAddress":"1458 El Camino Real",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"1458 El Camino Real, Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(650) 364-1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9618418,37.5340325 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #012823 Fremont",
+    "StreetAddress":"40861 Fremont Blvd",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"40861 Fremont Blvd, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 657-5575"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9845007,37.3527842 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #012882 Santa Clara",
+    "StreetAddress":"3161 El Camino Real",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"3161 El Camino Real, Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(408) 243-9644"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0458782,37.3707636 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #023574 Sunnyvale",
+    "StreetAddress":"922 W El Camino Real",
+    "City":"Sunnyvale",
+    "PostalCode":"94087",
+    "Address":"922 W El Camino Real, Sunnyvale 94087",
+    "Type":"UsedOil",
+    "Phone":"(408) 737-9900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1862676,37.4548745 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"M & R Automotive",
+    "StreetAddress":"1281 El Camino Real",
+    "City":"Menlo Park",
+    "PostalCode":"94025",
+    "Address":"1281 El Camino Real, Menlo Park 94025",
+    "Type":"UsedOil",
+    "Phone":"(650) 325-3900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8239665,37.3245012 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3481",
+    "StreetAddress":"1905 Tully Rd",
+    "City":"San Jose",
+    "PostalCode":"95122",
+    "Address":"1905 Tully Rd, San Jose 95122",
+    "Type":"UsedOil",
+    "Phone":"(408) 923-7323"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8279383,37.3817351 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3447",
+    "StreetAddress":"3489 McKee Rd",
+    "City":"San Jose",
+    "PostalCode":"95127",
+    "Address":"3489 McKee Rd, San Jose 95127",
+    "Type":"UsedOil",
+    "Phone":"(408) 259-9660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2186323,37.4746106 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3474",
+    "StreetAddress":"2411 El Camino Real",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"2411 El Camino Real, Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(650) 368-2831"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9594424,37.5318332 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2728",
+    "StreetAddress":"41085 Fremont Blvd",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"41085 Fremont Blvd, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 490-9986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1309367,37.417622 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"9 Minute Oil & Lube Co",
+    "StreetAddress":"3839 El Camino Real",
+    "City":"Palo Alto",
+    "PostalCode":"94306",
+    "Address":"3839 El Camino Real, Palo Alto 94306",
+    "Type":"UsedOil",
+    "Phone":"(650) 856-2104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0296712,37.364584 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pep Boys #840",
+    "StreetAddress":"170 E El Camino Real",
+    "City":"Sunnyvale",
+    "PostalCode":"94087-1936",
+    "Address":"170 E El Camino Real, Sunnyvale 94087-1936",
+    "Type":"UsedOil",
+    "Phone":"(408) 774-0159"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8244559,37.3238658 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #022845 Tully Road",
+    "StreetAddress":"1895 Tully Road",
+    "City":"San Jose",
+    "PostalCode":"95122",
+    "Address":"1895 Tully Road, San Jose 95122",
+    "Type":"UsedOil",
+    "Phone":"(408) 926-1616"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.825924,37.3509886 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pep Boys #828",
+    "StreetAddress":"2730 Story Rd",
+    "City":"San Jose",
+    "PostalCode":"95127-3920",
+    "Address":"2730 Story Rd, San Jose 95127-3920",
+    "Type":"UsedOil",
+    "Phone":"(408) 254-7022"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.968018,37.3227756 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pep Boys #873",
+    "StreetAddress":"3780 Stevens Crk Blvd",
+    "City":"San Jose",
+    "PostalCode":"95117-1253",
+    "Address":"3780 Stevens Crk Blvd, San Jose 95117-1253",
+    "Type":"UsedOil",
+    "Phone":"(408) 246-8090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0165659,37.3554636 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2854",
+    "StreetAddress":"813 E El Camino Real",
+    "City":"Sunnyvale",
+    "PostalCode":"94087",
+    "Address":"813 E El Camino Real, Sunnyvale 94087",
+    "Type":"UsedOil",
+    "Phone":"(408) 739-9892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9601978,37.3530776 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2913",
+    "StreetAddress":"2027 El Camino Real",
+    "City":"Santa Clara",
+    "PostalCode":"95050",
+    "Address":"2027 El Camino Real, Santa Clara 95050",
+    "Type":"UsedOil",
+    "Phone":"(408) 247-3765"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2506328,37.4986938 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3535",
+    "StreetAddress":"1272 El Camino Real",
+    "City":"San Carlos",
+    "PostalCode":"94070",
+    "Address":"1272 El Camino Real, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(650) 595-5112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8783636,37.2497878 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3531",
+    "StreetAddress":"1170 Blossom Hill Rd",
+    "City":"San Jose",
+    "PostalCode":"95118",
+    "Address":"1170 Blossom Hill Rd, San Jose 95118",
+    "Type":"UsedOil",
+    "Phone":"(408) 445-0481"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1235719,37.1248822 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Mountain Mechanics",
+    "StreetAddress":"13265 Big Basin Way",
+    "City":"Boulder Creek",
+    "PostalCode":"95006",
+    "Address":"13265 Big Basin Way, Boulder Creek 95006",
+    "Type":"UsedOil",
+    "Phone":"(408) 338-3903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9494219,37.2851277 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Firestone #598763 Winchester",
+    "StreetAddress":"2120 Winchester Boulevard",
+    "City":"Campbell",
+    "PostalCode":"95008-3427",
+    "Address":"2120 Winchester Boulevard, Campbell 95008-3427",
+    "Type":"UsedOil",
+    "Phone":"(408) 871-9042"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251652,37.5020118 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pep Boys #827",
+    "StreetAddress":"1087 Old County Rd",
+    "City":"San Carlos",
+    "PostalCode":"94070",
+    "Address":"1087 Old County Rd, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(650) 632-1522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8090797,37.3106276 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"SpeeDee Oil Change and Tune Up",
+    "StreetAddress":"1825 E Capitol Expressway",
+    "City":"San Jose",
+    "PostalCode":"95121",
+    "Address":"1825 E Capitol Expressway, San Jose 95121",
+    "Type":"UsedOil",
+    "Phone":"(408) 531-0701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8273032,37.3502375 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #5924",
+    "StreetAddress":"2690 Story Rd",
+    "City":"San Jose",
+    "PostalCode":"95122",
+    "Address":"2690 Story Rd, San Jose 95122",
+    "Type":"UsedOil",
+    "Phone":"(408) 254-4865"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9322672,37.3012227 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"John's Bascom Automotive",
+    "StreetAddress":"1305 S. Bascom Ave.",
+    "City":"San Jose",
+    "PostalCode":"95128",
+    "Address":"1305 S. Bascom Ave., San Jose 95128",
+    "Type":"UsedOil",
+    "Phone":"(408) 292-1200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6429714,37.1141304 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3522",
+    "StreetAddress":"16060 Monterey Rd. Ste 100",
+    "City":"Morgan Hill",
+    "PostalCode":"95037",
+    "Address":"16060 Monterey Rd. Ste 100, Morgan Hill 95037",
+    "Type":"UsedOil",
+    "Phone":"(408) 776-7705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8532811,37.3535087 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2629",
+    "StreetAddress":"1810 Alum Rock Ave.",
+    "City":"San Jose",
+    "PostalCode":"95116",
+    "Address":"1810 Alum Rock Ave., San Jose 95116",
+    "Type":"UsedOil",
+    "Phone":"(408) 251-4494"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8696476,37.3113847 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pick-N-Pull/San Jose South",
+    "StreetAddress":"1675 Monterey Road",
+    "City":"San Jose",
+    "PostalCode":"95112-6113",
+    "Address":"1675 Monterey Road, San Jose 95112-6113",
+    "Type":"UsedOil",
+    "Phone":"(408) 292-4325"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8127102,37.3083466 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2556",
+    "StreetAddress":"3095 Silver Creek Rd.",
+    "City":"San Jose",
+    "PostalCode":"95121",
+    "Address":"3095 Silver Creek Rd., San Jose 95121",
+    "Type":"UsedOil",
+    "Phone":"(408) 274-7800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9031309,37.359721 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2555",
+    "StreetAddress":"1160 N. 4th St.",
+    "City":"San Jose",
+    "PostalCode":"95112",
+    "Address":"1160 N. 4th St., San Jose 95112",
+    "Type":"UsedOil",
+    "Phone":"(408) 298-5766"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8736944,37.4177516 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3199",
+    "StreetAddress":"1350 S. Park Victoria Dr. Ste.#20",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"1350 S. Park Victoria Dr. Ste.#20, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(408) 946-3677"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8618204,37.3883753 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #3354",
+    "StreetAddress":"1204 N Capitol Avenue",
+    "City":"San Jose",
+    "PostalCode":"95132",
+    "Address":"1204 N Capitol Avenue, San Jose 95132",
+    "Type":"UsedOil",
+    "Phone":"(408) 254-2378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2934327,37.5329061 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #2854",
+    "StreetAddress":"3880 S. El Camino Real",
+    "City":"San Mateo",
+    "PostalCode":"94403",
+    "Address":"3880 S. El Camino Real, San Mateo 94403",
+    "Type":"UsedOil",
+    "Phone":"(650) 372-0535"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7971543,37.2530366 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"SpeeDee Oil Change & Tune up",
+    "StreetAddress":"5564 Monterey Rd.",
+    "City":"San Jose",
+    "PostalCode":"95138",
+    "Address":"5564 Monterey Rd., San Jose 95138",
+    "Type":"UsedOil",
+    "Phone":"(408) 224-5500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0991448,37.4198485 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Larry's AutoWorks",
+    "StreetAddress":"2526  Leghorn Street",
+    "City":"Mountain View",
+    "PostalCode":"94043-1614",
+    "Address":"2526  Leghorn Street, Mountain View 94043-1614",
+    "Type":"UsedOil",
+    "Phone":"(650) 968-5202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8762736,37.2636971 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #3369",
+    "StreetAddress":"4580 Alamaden Expressway",
+    "City":"San Jose",
+    "PostalCode":"95118",
+    "Address":"4580 Alamaden Expressway, San Jose 95118",
+    "Type":"UsedOil",
+    "Phone":"(408) 266-6432"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8422501,37.3418522 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3487",
+    "StreetAddress":"1799 Story Rd.",
+    "City":"San Jose",
+    "PostalCode":"95122",
+    "Address":"1799 Story Rd., San Jose 95122",
+    "Type":"UsedOil",
+    "Phone":"(408) 251-7332"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9014842,37.309883 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #3100",
+    "StreetAddress":"1074 Lincoln Ave.",
+    "City":"San Jose",
+    "PostalCode":"95125",
+    "Address":"1074 Lincoln Ave., San Jose 95125",
+    "Type":"UsedOil",
+    "Phone":"(408) 293-9200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9762406,37.2867926 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #2885",
+    "StreetAddress":"94 N San Tomas Aquino Road",
+    "City":"Campbell",
+    "PostalCode":"95008",
+    "Address":"94 N San Tomas Aquino Road, Campbell 95008",
+    "Type":"UsedOil",
+    "Phone":"(408) 370-0758"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9817019,37.3221134 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Mercedes Benz of Stevens Creek",
+    "StreetAddress":"4500 Stevens Creek Blvd.",
+    "City":"San Jose",
+    "PostalCode":"95129",
+    "Address":"4500 Stevens Creek Blvd., San Jose 95129",
+    "Type":"UsedOil",
+    "Phone":"(408) 345-2202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1413841,37.4643812 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #3302",
+    "StreetAddress":"2160 University Avenue",
+    "City":"East Palo Alto",
+    "PostalCode":"94303",
+    "Address":"2160 University Avenue, East Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(650) 321-7221"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.958376,37.5314053 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Autozone #3368",
+    "StreetAddress":"41094 Fremont Blvd.",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"41094 Fremont Blvd., Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 656-2533"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2255917,37.4800156 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Towne Ford ",
+    "StreetAddress":"1601 El Camino Real",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"1601 El Camino Real, Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(650) 366-5744"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8920809,37.4038026 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Marlong Speedee Oil Change & Tune-Up",
+    "StreetAddress":"635 Trade Zone Blvd",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"635 Trade Zone Blvd, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(925) 426-9669"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2274552,37.495531 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Boardwalk Auto Center",
+    "StreetAddress":"1 Bair Island Road",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"1 Bair Island Road, Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(650) 364-0100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9354006,37.3597095 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Lexus of Stevens Creek",
+    "StreetAddress":"300 Martin Avenue",
+    "City":"Santa Clara",
+    "PostalCode":"95050",
+    "Address":"300 Martin Avenue, Santa Clara 95050",
+    "Type":"UsedOil",
+    "Phone":"(408) 330-3000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2535354,37.5012321 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #0610",
+    "StreetAddress":"1030 El Camino Real",
+    "City":"San Carlos",
+    "PostalCode":"94070",
+    "Address":"1030 El Camino Real, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0050949,37.5231128 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #1166",
+    "StreetAddress":"39197 Cedar Blvd",
+    "City":"Newark",
+    "PostalCode":"94560",
+    "Address":"39197 Cedar Blvd, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2365354,37.4934462 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #1802",
+    "StreetAddress":"640 Whipple Avenue",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"640 Whipple Avenue, Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9595535,37.3235375 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #1328",
+    "StreetAddress":"3497 Stevens Crk Blvd",
+    "City":"San Jose",
+    "PostalCode":"95117",
+    "Address":"3497 Stevens Crk Blvd, San Jose 95117",
+    "Type":"UsedOil",
+    "Phone":"(408) 244-8261"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.882121,37.4037508 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2333",
+    "StreetAddress":"1902 N. Capitol Avenue",
+    "City":"San Jose",
+    "PostalCode":"95132",
+    "Address":"1902 N. Capitol Avenue, San Jose 95132",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9772815,37.3526862 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2339",
+    "StreetAddress":"2795 El Camino Real",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"2795 El Camino Real, Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8707101,37.2743362 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Normandin Chrysler Jeep",
+    "StreetAddress":"900 Capitol Exp/Auto Mall",
+    "City":"San Jose",
+    "PostalCode":"95136",
+    "Address":"900 Capitol Exp/Auto Mall, San Jose 95136",
+    "Type":"UsedOil",
+    "Phone":"(408) 979-3450"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0478318,37.3721251 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #0295",
+    "StreetAddress":"999 W El Camino Real",
+    "City":"Sunnyvale",
+    "PostalCode":"94087",
+    "Address":"999 W El Camino Real, Sunnyvale 94087",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9445335,37.2684732 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #0297",
+    "StreetAddress":"1387 Camden Ave",
+    "City":"Campbell",
+    "PostalCode":"95008",
+    "Address":"1387 Camden Ave, Campbell 95008",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9594202,37.2945648 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2314",
+    "StreetAddress":"535 W. Hamilton Ave",
+    "City":"Campbell",
+    "PostalCode":"95008",
+    "Address":"535 W. Hamilton Ave, Campbell 95008",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0880371,37.3873825 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2342",
+    "StreetAddress":"1141 W. El Camino Real",
+    "City":"Mountain View",
+    "PostalCode":"94040",
+    "Address":"1141 W. El Camino Real, Mountain View 94040",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.102938,37.41632 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #1283",
+    "StreetAddress":"4201 Middlefield Rd",
+    "City":"Palo Alto",
+    "PostalCode":"94303",
+    "Address":"4201 Middlefield Rd, Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8597524,37.2499244 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2345",
+    "StreetAddress":"884 Blossom Hill Road",
+    "City":"San Jose",
+    "PostalCode":"95123",
+    "Address":"884 Blossom Hill Road, San Jose 95123",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9121981,37.4173769 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Piercey Toyota",
+    "StreetAddress":"950 Thompson Street",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"950 Thompson Street, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(408) 240-1501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.123217,37.4108901 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #1297",
+    "StreetAddress":"4195 El Camino Real",
+    "City":"Palo Alto",
+    "PostalCode":"94306",
+    "Address":"4195 El Camino Real, Palo Alto 94306",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9773259,37.3078942 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2346",
+    "StreetAddress":"1030 Saratoga Avenue",
+    "City":"San Jose",
+    "PostalCode":"95129",
+    "Address":"1030 Saratoga Avenue, San Jose 95129",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8798782,37.2919885 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2332",
+    "StreetAddress":"2302 Almaden Road",
+    "City":"San Jose",
+    "PostalCode":"95125",
+    "Address":"2302 Almaden Road, San Jose 95125",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2307333,37.496562 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Toyota 101",
+    "StreetAddress":"525 E. Bayshore Rd.",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"525 E. Bayshore Rd., Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(650) 365-5000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9199773,37.2619134 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2344",
+    "StreetAddress":"3606 Camden Avenue",
+    "City":"San Jose",
+    "PostalCode":"95124",
+    "Address":"3606 Camden Avenue, San Jose 95124",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9641524,37.2346503 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Los Gatos Acura",
+    "StreetAddress":"16151 Los Gatos Blvd",
+    "City":"Los Gatos",
+    "PostalCode":"95032",
+    "Address":"16151 Los Gatos Blvd, Los Gatos 95032",
+    "Type":"UsedOil",
+    "Phone":"(408) 358-8000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8665346,37.3007428 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Autozone #4012",
+    "StreetAddress":"189 Curtner",
+    "City":"San Jose",
+    "PostalCode":"95125",
+    "Address":"189 Curtner, San Jose 95125",
+    "Type":"UsedOil",
+    "Phone":"(408) 283-0256"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9519189,37.3006649 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2741",
+    "StreetAddress":"1309 S. Winchester Blvd",
+    "City":"San Jose",
+    "PostalCode":"95128",
+    "Address":"1309 S. Winchester Blvd, San Jose 95128",
+    "Type":"UsedOil",
+    "Phone":"(408) 364-0250"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9782589,37.3748838 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #1300",
+    "StreetAddress":"2940 Bowers Ave,",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"2940 Bowers Ave,, Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0138424,37.322719 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Jiffy Lube #2355",
+    "StreetAddress":"19480 Stevens Creek Blvd",
+    "City":"Cupertino",
+    "PostalCode":"95014",
+    "Address":"19480 Stevens Creek Blvd, Cupertino 95014",
+    "Type":"UsedOil",
+    "Phone":"(714) 444-4940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.233437,37.4854487 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #4026",
+    "StreetAddress":"901 El Camino Real",
+    "City":"Redwood City",
+    "PostalCode":"94063",
+    "Address":"901 El Camino Real, Redwood City 94063",
+    "Type":"UsedOil",
+    "Phone":"(650) 556-1684"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6435952,37.1131147 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #4048",
+    "StreetAddress":"16025 Monterey Road",
+    "City":"Morgan Hill",
+    "PostalCode":"95037",
+    "Address":"16025 Monterey Road, Morgan Hill 95037",
+    "Type":"UsedOil",
+    "Phone":"(408) 778-2840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8442984,37.3586773 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #4046",
+    "StreetAddress":"2277 Alum Rock Avenue",
+    "City":"San Jose",
+    "PostalCode":"95116",
+    "Address":"2277 Alum Rock Avenue, San Jose 95116",
+    "Type":"UsedOil",
+    "Phone":"(408) 258-2029"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2199074,37.4765639 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"The Toyota Scion Specialist",
+    "StreetAddress":"61 Willow Street",
+    "City":"Redwood City",
+    "PostalCode":"94134",
+    "Address":"61 Willow Street, Redwood City 94134",
+    "Type":"UsedOil",
+    "Phone":"(650) 363-1290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9550877,37.2715998 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pro Alignment & Brake",
+    "StreetAddress":"2875 S. Winchester Blvd.",
+    "City":"Campbell",
+    "PostalCode":"95008",
+    "Address":"2875 S. Winchester Blvd., Campbell 95008",
+    "Type":"UsedOil",
+    "Phone":"(408) 370-1421"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9087751,37.3651932 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Diamond Mitsubishi Fuso",
+    "StreetAddress":"1505 N. 4th St.",
+    "City":"San Jose",
+    "PostalCode":"95112",
+    "Address":"1505 N. 4th St., San Jose 95112",
+    "Type":"UsedOil",
+    "Phone":"(408) 263-7300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9078638,37.4275944 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Quality Tune Up #23",
+    "StreetAddress":"92 Serra Way",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"92 Serra Way, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(408) 262-3211"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9404005,37.2662176 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Quality Tune Up",
+    "StreetAddress":"3146 S. Bascom Ave.",
+    "City":"San Jose",
+    "PostalCode":"95124",
+    "Address":"3146 S. Bascom Ave., San Jose 95124",
+    "Type":"UsedOil",
+    "Phone":"(408) 377-4764"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2836909,37.5273935 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Spiteri's Auto Service, Inc.",
+    "StreetAddress":"292 Old County Road",
+    "City":"Belmont",
+    "PostalCode":"94002",
+    "Address":"292 Old County Road, Belmont 94002",
+    "Type":"UsedOil",
+    "Phone":"(650) 593-4758"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9738827,37.4967879 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Magnussen Lexus",
+    "StreetAddress":"5600 Cushing Parkway",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"5600 Cushing Parkway, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 492-5640"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0134617,37.5106654 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pick-N-Pull/ Newark #43",
+    "StreetAddress":"7400 Mowry Ave",
+    "City":"Newark",
+    "PostalCode":"94560",
+    "Address":"7400 Mowry Ave, Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 742-2277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.885078,37.3686631 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pick-N-Pull/ San Jose North #40",
+    "StreetAddress":"1065 Commercial Street",
+    "City":"San Jose",
+    "PostalCode":"95112",
+    "Address":"1065 Commercial Street, San Jose 95112",
+    "Type":"UsedOil",
+    "Phone":"(408) 452-1274"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8473209,37.2887355 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #4429",
+    "StreetAddress":"3015 Monterey Rd",
+    "City":"San Jose",
+    "PostalCode":"95111",
+    "Address":"3015 Monterey Rd, San Jose 95111",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.819829,37.357437 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #3114",
+    "StreetAddress":"1064 South White Road",
+    "City":"San Jose",
+    "PostalCode":"95127",
+    "Address":"1064 South White Road, San Jose 95127",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0970303,37.3928315 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #3525",
+    "StreetAddress":"1915 El Camino Real West",
+    "City":"Mountain View",
+    "PostalCode":"94040",
+    "Address":"1915 El Camino Real West, Mountain View 94040",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8780968,37.2637151 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #2624",
+    "StreetAddress":"1111 Branham Lane",
+    "City":"San Jose",
+    "PostalCode":"95118",
+    "Address":"1111 Branham Lane, San Jose 95118",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9254001,37.3237522 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #2754",
+    "StreetAddress":"1811 West San Carlos",
+    "City":"San Jose",
+    "PostalCode":"95128",
+    "Address":"1811 West San Carlos, San Jose 95128",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9945402,37.2916823 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #3469",
+    "StreetAddress":"18506 Prospect Road",
+    "City":"Saratoga",
+    "PostalCode":"95070",
+    "Address":"18506 Prospect Road, Saratoga 95070",
+    "Type":"UsedOil",
+    "Phone":"(417) 862-2674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8890854,37.3562795 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #4096",
+    "StreetAddress":"769 North 13th Street",
+    "City":"San Jose",
+    "PostalCode":"95112",
+    "Address":"769 North 13th Street, San Jose 95112",
+    "Type":"UsedOil",
+    "Phone":"(408) 977-1628"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9222054,37.3240409 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #6243",
+    "StreetAddress":"1717 W. San Carlos Avenue",
+    "City":"San Jose",
+    "PostalCode":"95128",
+    "Address":"1717 W. San Carlos Avenue, San Jose 95128",
+    "Type":"UsedOil",
+    "Phone":"(408) 288-5149"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9558876,37.5332043 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Midas/Speedee",
+    "StreetAddress":"3741 Washington Boulevard",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"3741 Washington Boulevard, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(650) 219-9736"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9104199,37.331972 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #3462",
+    "StreetAddress":"1033 The Alameda",
+    "City":"San Jose",
+    "PostalCode":"95126",
+    "Address":"1033 The Alameda, San Jose 95126",
+    "Type":"UsedOil",
+    "Phone":"(408) 288-7660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7734598,37.2267857 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #2578",
+    "StreetAddress":"7102 Santa Teresa Boulevard",
+    "City":"San Jose",
+    "PostalCode":"95139",
+    "Address":"7102 Santa Teresa Boulevard, San Jose 95139",
+    "Type":"UsedOil",
+    "Phone":"(408) 281-2350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1113923,37.4066177 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #2553",
+    "StreetAddress":"2620 California Street",
+    "City":"Mountain View",
+    "PostalCode":"94040",
+    "Address":"2620 California Street, Mountain View 94040",
+    "Type":"UsedOil",
+    "Phone":"(650) 941-4440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9659389,37.352763 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #3337",
+    "StreetAddress":"2335 El Camino Real",
+    "City":"Santa Clara",
+    "PostalCode":"95050",
+    "Address":"2335 El Camino Real, Santa Clara 95050",
+    "Type":"UsedOil",
+    "Phone":"(408) 247-3525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9649966,37.3218812 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Stevens Creek Chevrolet",
+    "StreetAddress":"3640 Stevens Creek Blvd",
+    "City":"San Jose",
+    "PostalCode":"95117",
+    "Address":"3640 Stevens Creek Blvd, San Jose 95117",
+    "Type":"UsedOil",
+    "Phone":"(408) 510-3543"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8699811,37.2734649 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Speed Oil Change Center ",
+    "StreetAddress":"3601 Pearl Avenue",
+    "City":"San Jose",
+    "PostalCode":"95136",
+    "Address":"3601 Pearl Avenue, San Jose 95136",
+    "Type":"UsedOil",
+    "Phone":"(510) 985-1010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0583316,37.3742634 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Speed Oil Change Center",
+    "StreetAddress":"1240 W El Camino Real",
+    "City":"Sunnyvale",
+    "PostalCode":"94087",
+    "Address":"1240 W El Camino Real, Sunnyvale 94087",
+    "Type":"UsedOil",
+    "Phone":"(510) 985-1010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9924746,37.3374444 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Speed Oil Change Center",
+    "StreetAddress":"3478 Homestead Road",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"3478 Homestead Road, Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(510) 985-1010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9606975,37.2433823 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #2572",
+    "StreetAddress":"15525 Los Gatos",
+    "City":"Los Gatos",
+    "PostalCode":"95032",
+    "Address":"15525 Los Gatos, Los Gatos 95032",
+    "Type":"UsedOil",
+    "Phone":"(408) 358-2774"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9325783,37.2737194 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O'Reilly Auto Parts #2806",
+    "StreetAddress":"2660 Union Avenue",
+    "City":"San Jose",
+    "PostalCode":"95124",
+    "Address":"2660 Union Avenue, San Jose 95124",
+    "Type":"UsedOil",
+    "Phone":"(408) 559-7102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8032771,37.2529827 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #6299",
+    "StreetAddress":"5566 Cottle Road",
+    "City":"San Jose",
+    "PostalCode":"95123",
+    "Address":"5566 Cottle Road, San Jose 95123",
+    "Type":"UsedOil",
+    "Phone":"(669) 234-1251"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2225553,37.472088 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Woodside Auto & Tire, Inc.",
+    "StreetAddress":"333 Woodside Rd",
+    "City":"Redwood City",
+    "PostalCode":"94061",
+    "Address":"333 Woodside Rd, Redwood City 94061",
+    "Type":"UsedOil",
+    "Phone":"(650) 363-0460"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9173102,37.2630148 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #4169",
+    "StreetAddress":"1812 Hillsdale Ave",
+    "City":"San Jose",
+    "PostalCode":"95124",
+    "Address":"1812 Hillsdale Ave, San Jose 95124",
+    "Type":"UsedOil",
+    "Phone":"(669) 234-1000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2450828,37.4937574 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Perfect Lube",
+    "StreetAddress":"1792 El Camino Real",
+    "City":"San Carlos",
+    "PostalCode":"94070",
+    "Address":"1792 El Camino Real, San Carlos 94070",
+    "Type":"UsedOil",
+    "Phone":"(650) 892-6463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8090171,37.2601899 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"AutoZone #3367",
+    "StreetAddress":"5272 Monterey Highway",
+    "City":"San Jose",
+    "PostalCode":"95111",
+    "Address":"5272 Monterey Highway, San Jose 95111",
+    "Type":"UsedOil",
+    "Phone":"(408) 225-1117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9078638,37.4275944 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Quality Car Care",
+    "StreetAddress":"92 Serra Way",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"92 Serra Way, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(408) 262-3211"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9717279,37.3204756 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"OilStop",
+    "StreetAddress":"404 Saratoga Ave",
+    "City":"San Jose",
+    "PostalCode":"95129",
+    "Address":"404 Saratoga Ave, San Jose 95129",
+    "Type":"UsedOil",
+    "Phone":"(520) 940-4044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8307584,37.2513853 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"O’Reilly Auto Parts #2582",
+    "StreetAddress":"455-A Blossom Hill Road",
+    "City":"San Jose",
+    "PostalCode":"95123",
+    "Address":"455-A Blossom Hill Road, San Jose 95123",
+    "Type":"UsedOil",
+    "Phone":"(408) 629-7371"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9127316,37.4190184 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Piercey Honda",
+    "StreetAddress":"920 Thompson Street",
+    "City":"Milpitas",
+    "PostalCode":"95035",
+    "Address":"920 Thompson Street, Milpitas 95035",
+    "Type":"UsedOil",
+    "Phone":"(408) 750-6698"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2140885,37.4704344 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Oil Changer #202",
+    "StreetAddress":"2762 El Camino Real",
+    "City":"Redwood City",
+    "PostalCode":"94061",
+    "Address":"2762 El Camino Real, Redwood City 94061",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1017846,37.4192179 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Oil Changers #203",
+    "StreetAddress":"780 San Antonio Rd",
+    "City":"Palo Alto",
+    "PostalCode":"94303",
+    "Address":"780 San Antonio Rd, Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9458223,37.3552799 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Oil Changer #204",
+    "StreetAddress":"889 El Camino Real",
+    "City":"Santa Clara",
+    "PostalCode":"95050",
+    "Address":"889 El Camino Real, Santa Clara 95050",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0142389,37.3756767 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Oil Changer #405",
+    "StreetAddress":"131 N Wolfe Road",
+    "City":"Sunnyvale",
+    "PostalCode":"94086",
+    "Address":"131 N Wolfe Road, Sunnyvale 94086",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8474766,37.2892344 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Oil Changer #602",
+    "StreetAddress":"2985 Monterey Road",
+    "City":"San Jose",
+    "PostalCode":"95111",
+    "Address":"2985 Monterey Road, San Jose 95111",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1563104,37.4672115 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Oil Changer #611",
+    "StreetAddress":"944 Willow Road",
+    "City":"Menlo Park",
+    "PostalCode":"94025",
+    "Address":"944 Willow Road, Menlo Park 94025",
+    "Type":"UsedOil",
+    "Phone":"(925) 201-9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6328556,37.1346868 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Ford Store Morgan Hill",
+    "StreetAddress":"17045 Condit Road",
+    "City":"Morgan Hill",
+    "PostalCode":"95037",
+    "Address":"17045 Condit Road, Morgan Hill 95037",
+    "Type":"UsedOil",
+    "Phone":"(408) 782-8277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0056226,37.5235408 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Pep Boys #6458",
+    "StreetAddress":"39165 Cedar Blvd.",
+    "City":"Newark",
+    "PostalCode":"94560",
+    "Address":"39165 Cedar Blvd., Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(215) 430-9226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9859667,37.3235342 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Autonation Acura Stevens Creek",
+    "StreetAddress":"4747 Stevens Creek Blvd",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"4747 Stevens Creek Blvd, Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(408) 758-5502"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8129892,37.3100496 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Tire Choice",
+    "StreetAddress":"3002 Silver Creek Road",
+    "City":"San Jose",
+    "PostalCode":"95121",
+    "Address":"3002 Silver Creek Road, San Jose 95121",
+    "Type":"UsedOil",
+    "Phone":"(585) 784-3378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.116742,37.3769996 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Tire Choice",
+    "StreetAddress":"317 First Street",
+    "City":"Los Altos",
+    "PostalCode":"94022",
+    "Address":"317 First Street, Los Altos 94022",
+    "Type":"UsedOil",
+    "Phone":"(585) 784-3378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9776813,37.2328958 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Tire Choice",
+    "StreetAddress":"577 University Ave",
+    "City":"Los Gatos",
+    "PostalCode":"95032",
+    "Address":"577 University Ave, Los Gatos 95032",
+    "Type":"UsedOil",
+    "Phone":"(585) 784-3378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.804523,37.2448541 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Tire Choice",
+    "StreetAddress":"5855 Cottle Rd",
+    "City":"San Jose",
+    "PostalCode":"95123",
+    "Address":"5855 Cottle Rd, San Jose 95123",
+    "Type":"UsedOil",
+    "Phone":"(585) 784-3378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8669793,37.2500371 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Tire Choice",
+    "StreetAddress":"970 Blossom Hill Road",
+    "City":"San Jose",
+    "PostalCode":"95123",
+    "Address":"970 Blossom Hill Road, San Jose 95123",
+    "Type":"UsedOil",
+    "Phone":"(585) 784-3378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.988099,37.3237937 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Stevens Creek Nissan",
+    "StreetAddress":"4855 Stevens Creek Blvd ",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"4855 Stevens Creek Blvd , Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(408) 983-5900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1175816,37.4502209 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Anderson Honda",
+    "StreetAddress":"1766 Embarcadero Rd.",
+    "City":"Palo Alto",
+    "PostalCode":"94303",
+    "Address":"1766 Embarcadero Rd., Palo Alto 94303",
+    "Type":"UsedOil",
+    "Phone":"(650) 843-6041"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9788586,37.3237207 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Stevens Creek Cadillac",
+    "StreetAddress":"4355 Stevens Creek Blvd.",
+    "City":"Santa Clara",
+    "PostalCode":"95051",
+    "Address":"4355 Stevens Creek Blvd., Santa Clara 95051",
+    "Type":"UsedOil",
+    "Phone":"(510) 449-6427"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9649966,37.3218812 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Stevens Creek Chevrolet",
+    "StreetAddress":"3640 Stevens Creek Blvd",
+    "City":"San Jose",
+    "PostalCode":"95117",
+    "Address":"3640 Stevens Creek Blvd, San Jose 95117",
+    "Type":"UsedOil",
+    "Phone":"(510) 449-6427"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.952777,37.3237909 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Stevens Creek Subaru",
+    "StreetAddress":"3155 Stevens Creek Blvd.",
+    "City":"San Jose",
+    "PostalCode":"95117",
+    "Address":"3155 Stevens Creek Blvd., San Jose 95117",
+    "Type":"UsedOil",
+    "Phone":"(408) 442-6776"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9796583,37.5011183 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Fremont Chevrolet",
+    "StreetAddress":"5850 Cushing Parkway",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"5850 Cushing Parkway, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 449-6427"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9790364,37.5033297 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Fremont Buick GMC Cadillac",
+    "StreetAddress":"5939 Automall Parkway",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"5939 Automall Parkway, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 449-6427"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9941404,37.5244032 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Winn Kia of Fremont",
+    "StreetAddress":"5633 John Muir Dr.",
+    "City":"Newark",
+    "PostalCode":"94560",
+    "Address":"5633 John Muir Dr., Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 344-2013"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9964503,37.5225072 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"Winn Volkswagen",
+    "StreetAddress":"39695 Balentine Dr.",
+    "City":"Newark",
+    "PostalCode":"94560",
+    "Address":"39695 Balentine Dr., Newark 94560",
+    "Type":"UsedOil",
+    "Phone":"(510) 668-8032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9753489,37.4987822 ]
+    },
+    "properties": {
+    "ID":"0",
+    "FacilityName":"BMW of Fremont",
+    "StreetAddress":"5720 Cushing Parkway",
+    "City":"Fremont",
+    "PostalCode":"94538",
+    "Address":"5720 Cushing Parkway, Fremont 94538",
+    "Type":"UsedOil",
+    "Phone":"(510) 224-4820"
+    }
+  }
+]
+}
